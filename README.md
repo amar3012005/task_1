@@ -1,6 +1,6 @@
 # TASK-1: Autonomous Navigation with Turtlebot3 in Gazebo using ROS 2 Default Planners
 ### follow the package structure:
-#### my_turtlebot3_world/
+#### task_1/
 #### ├── launch/house.launch.py
 #### ├── worlds/house.world
 #### |-- maps/house_map.yaml
